@@ -47,7 +47,7 @@ Open the provided URL in your browser (usually http://localhost:8501) to interac
 After entering or uploading text, the app will display the sentiment classification (positive, negative, or neutral) and show a word cloud of the most frequently used words.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache License - see the LICENSE file for details.
 
 ## Acknowledgments
 **Streamlit**: Used to create the interactive web application.
