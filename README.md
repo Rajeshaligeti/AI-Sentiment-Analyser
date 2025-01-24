@@ -1,4 +1,4 @@
-# Streamlit Sentiment Analyzer
+# AI Sentiment Analyzer
 
 A web-based application built using Streamlit that performs sentiment analysis on text or batch files. The app uses natural language processing techniques to classify text as positive, negative, or neutral. It also generates visual insights such as word clouds based on the text provided.
 
