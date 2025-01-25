@@ -27,9 +27,9 @@ pip install streamlit langchain ollama matplotlib
 ## Usage
 Clone the repository:
 ```
-git clone https://github.com/yourusername/streamlit-sentiment-analyzer.git
+https://github.com/Rajeshaligeti/AI-Sentiment-Analyser.git
 
-cd streamlit-sentiment-analyzer
+cd AI-Sentiment-Analyser
 ```
 Run the Streamlit app:
 ```
